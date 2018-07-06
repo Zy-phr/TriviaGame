@@ -1,0 +1,20 @@
+body {
+    background-image: url("../images/1192_big_bang_theory_friendship_flow_chart_poster.jpg");
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+
+.background {
+	background: lightblue;
+    padding: 20px 0px 20px 0px;
+    margin-top: 200px;
+}
+
+.answerBtn {
+	margin-bottom: 10px;
+	width: 80%;
+	font-size: 20px;
+	background: none;
+	border: none;
+}
